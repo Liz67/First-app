@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
+##Define que es un componente y al crearlo que elementos lo forman.
+
+Un componente es una parte de la web que puede tener estilos, vista y lógica, lo que le permite al usuario visualizar ciertos apartados de la web como en este caso el "header y el footer". 
+Los archivos que conforman estos componentes son: un archivo .Html, un archivo .ts y otro archivo .css
+
+##
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
