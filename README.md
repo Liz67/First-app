@@ -14,11 +14,11 @@ El patrón de diseño decorator tiene como función extender una función dentro
 
 ## Menciona y describe los elementos importantes de un @NgModule
 
--Módulos: Son bloques independientes, los cuales cada uno contiene una parte de la aplicación o una serie de comportamientos de esta.
--Componentes: Un componente controla un espacio de la pantalla, que se denomina vista.
--Template: El template es el encargado de definir la vista de nuestro componente
--Servicios: Es una categoría amplia que abarca cualquier valor, función o característica que necesite una aplicación.
--Inyección de dependencias: Inyección de dependencia está conectado al framework de Angular y se usa en todas partes para proporcionar nuevos componentes con los servicios u otras cosas que necesitan.
+1.**Módulos**: Son bloques independientes, los cuales cada uno contiene una parte de la aplicación o una serie de comportamientos de esta.
+2.**Componentes**: Un componente controla un espacio de la pantalla, que se denomina vista.
+3.**Template**: El template es el encargado de definir la vista de nuestro componente
+4.**Servicios**: Es una categoría amplia que abarca cualquier valor, función o característica que necesite una aplicación.
+5.**Inyección de dependencias**: Inyección de dependencia está conectado al framework de Angular y se usa en todas partes para proporcionar nuevos componentes con los servicios u otras cosas que necesitan.
 
 ## Development server
 
